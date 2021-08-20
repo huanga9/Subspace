@@ -11,14 +11,5 @@ This repo contains the following:
 
 All code needed to run the algorithm. The main clustering function is found in 'subspaceClustering.m'.
 
-Inputs: 
-
-* mat dataset = matrix input (row: cell, column: gene)
-* csvfile labels = true labels of samples given by dataset authors, if available
-* int k = number of clusters
-* csvfile edges = strength output of SNN-Cliq from SNN.m 
-* csvfile cliques = cluster output of SNN-Cliq from Cliq.py 
-
-
 MATLAB 
 v. R2017b (and >)
