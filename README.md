@@ -12,4 +12,4 @@ This repo contains the following:
 All code needed to run the algorithm. The main clustering function is found in 'subspaceClustering.m'
 
 MATLAB 
-v. R2017b and greater 
+v. R2017b (and >)
