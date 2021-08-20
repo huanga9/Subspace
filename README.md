@@ -6,7 +6,7 @@ This clustering approach was developed to identify and categorize cell populatio
 Questions: Contact huanga1@seas.upenn.edu
 
 
-## Download and Run ##
+## Download ##
 This repo contains the following:
 
 All code needed to run the algorithm. The main clustering function is found in 'subspaceClustering.m'.
